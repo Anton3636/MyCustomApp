@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="profileimage">Profile Image</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="hint_to_search">Tap To Search</string>
+    <string name="city">CIty</string>
+    <string name="street">Street</string>
+</resources>
